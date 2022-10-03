@@ -1,8 +1,4 @@
-# what3words Task
-
-## Description
-
-This task has been made based on this [design](https://www.figma.com/file/2hdaxeg1p9qrPmZ0PK12UD/Interview-UI-Design?node-id=3%3A0).
+# React Form
 
 ## Set up
 1. Make sure Node and npm are installed from the terminal. Steps:
