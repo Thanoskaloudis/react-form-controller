@@ -31,15 +31,6 @@ This task has been made based on this [design](https://www.figma.com/file/2hdaxe
 
 * Form component has been build using Selection component with user options. Data used from https://jsonplaceholder.typicode.com/users
 
-## Comments
-
-Things that have not been implemented due to time constraints:
-
-* Improve accesiblity 
-
-* Writing e2e tests for your form.
-
-* More advanced Unit Testing
 
 
 
