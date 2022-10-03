@@ -1,0 +1,47 @@
+.form {
+  width: 675px;
+  height: auto;
+  color: black;
+  background-color: white;
+  font-size: 14px;
+
+  &--group {
+    margin: 1rem 1rem 1rem;
+
+    &--label {
+      font-size: 1rem;
+      color: black;
+    }
+
+    &--field {
+      width: 100%;
+      border: 0;
+      border-bottom: 1px solid black;
+      outline: 0;
+      font-size: 1.3rem;
+      color: bla;
+      padding: 7px 0;
+      background: transparent;
+      transition: border-color 0.2s;
+    }
+
+    &--error {
+      color: #e95454;
+    }
+
+    &--success {
+      color: #21c921;
+    }
+  }
+
+  &--submit {
+    width: 13rem;
+    height: 3rem;
+    border: none;
+    margin: 1rem 1rem 2rem;
+    cursor: pointer;
+    color: white;
+    background: #e71b1b;
+  }
+
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664457791723" clover="3.2.0">
+  <project timestamp="1664457791723" name="All files">
+    <metrics statements="25" coveredstatements="23" conditionals="12" coveredconditionals="9" methods="5" coveredmethods="5" elements="42" coveredelements="37" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
+    <file name="Selection.tsx" path="/Users/thanoskaloudis/Desktop/Projects/interview-frontend-Thanoskaloudis/src/components/Selection/Selection.tsx">
+      <metrics statements="25" coveredstatements="23" conditionals="12" coveredconditionals="9" methods="5" coveredmethods="5"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="8" type="stmt"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="29" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="38" count="32" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="50" count="8" type="stmt"/>
+    </file>
+  </project>
+</coverage>

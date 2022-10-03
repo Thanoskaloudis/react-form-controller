@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> Should render correctly 1`] = `
+<div>
+  <form
+    className="form"
+    onSubmit={[Function]}
+  >
+    <div
+      aria-labelledby="selections"
+      className="selections"
+    >
+      <label
+        className="selections--label"
+        htmlFor="selections"
+        id="selections"
+      >
+        Please Select the user
+      </label>
+      <div
+        className="selections--options"
+      />
+    </div>
+    <div
+      className="form--group"
+      role="form group"
+    >
+      <label
+        className="form--group--label"
+        htmlFor="title"
+      >
+        Title
+      </label>
+      <input
+        aria-describedby="required text"
+        autoComplete="title"
+        className="form--group--field"
+        id="title"
+        name="title"
+        onChange={[Function]}
+        placeholder="Some title"
+        type="text"
+      />
+    </div>
+    <div
+      className="form--group"
+      role="form group"
+    >
+      <label
+        className="form--group--label"
+        htmlFor="body"
+      >
+        Body
+      </label>
+      <input
+        aria-describedby="required text"
+        autoComplete="body"
+        className="form--group--field"
+        id="body"
+        name="body"
+        onChange={[Function]}
+        placeholder="Some body"
+        type="text"
+      />
+    </div>
+    <input
+      aria-describedby="submit message"
+      className="form--submit"
+      type="submit"
+      value="Submit"
+    />
+  </form>
+</div>
+`;

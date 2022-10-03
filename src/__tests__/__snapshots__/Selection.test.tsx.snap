@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Selection /> Should render correctly 1`] = `
+<div
+  aria-labelledby="selections"
+  className="selections"
+>
+  <label
+    className="selections--label"
+    htmlFor="selections"
+    id="selections"
+  >
+    test
+  </label>
+  <div
+    className="selections--options"
+  >
+    <button
+      aria-describedby="options required"
+      className="selections--options--button false"
+      id="Glenna Reichert"
+      onClick={[Function]}
+    >
+      Glenna Reichert
+    </button>
+    <button
+      aria-describedby="options required"
+      className="selections--options--button false"
+      id="Kurtis Weissnat"
+      onClick={[Function]}
+    >
+      Kurtis Weissnat
+    </button>
+    <button
+      aria-describedby="options required"
+      className="selections--options--button false"
+      id="Mrs. Dennis Schulist"
+      onClick={[Function]}
+    >
+      Mrs. Dennis Schulist
+    </button>
+    <button
+      aria-describedby="options required"
+      className="selections--options--button false"
+      id="Chelsey Dietrich"
+      onClick={[Function]}
+    >
+      Chelsey Dietrich
+    </button>
+  </div>
+</div>
+`;

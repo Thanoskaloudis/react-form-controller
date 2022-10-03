@@ -1,0 +1,42 @@
+.selections {
+  &--label {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5rem;
+  } 
+
+  &--options {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+
+    &--button {
+      width: 8rem;
+      height: 4rem;
+      width: 8rem;
+      height: 4rem;
+      padding: .5rem;
+      border: 1px solid #afacac;
+      background-color: white;
+      color: black;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .selected {
+      border: 3px solid #7dd7d9;
+      background-color: rgb(66 127 128 / 13%);
+    }
+  }
+
+  &--error {
+    height: 3rem;
+    color: #e95454;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5rem;
+  }
+}
