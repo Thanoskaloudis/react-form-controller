@@ -1,5 +1,8 @@
 # React Form
 
+## Description
+This project has been made using React and TypeScript 
+
 ## Set up
 1. Make sure Node and npm are installed from the terminal. Steps:
 
